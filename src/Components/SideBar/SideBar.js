@@ -41,7 +41,7 @@ return (
              </ListItem>
              <ListItem>
              <ListItemIcon>
-             <InboxIcon/>Log out
+             <InboxIcon/>Log Out
              </ListItemIcon>
              </ListItem>
             
